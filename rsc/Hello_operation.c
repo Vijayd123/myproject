@@ -2,6 +2,7 @@
 
 int main()
 {
+	int a , b;
 
 	printf ("Hello team welcome to git..!!")
 	Printf ("Welcome")
