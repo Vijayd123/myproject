@@ -1,0 +1,24 @@
+From 706ba9231f87aa62ec6d85bec1a8bd6362b97b40 Mon Sep 17 00:00:00 2001
+From: Vijayd123 <vijaydeulkar091989@gmail.com>
+Date: Wed, 13 Apr 2022 15:28:41 +0530
+Subject: [PATCH] added the int variable
+
+---
+ rsc/Hello_operation.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/rsc/Hello_operation.c b/rsc/Hello_operation.c
+index d4ef48c..8fa3f8d 100644
+--- a/rsc/Hello_operation.c
++++ b/rsc/Hello_operation.c
+@@ -2,6 +2,7 @@
+ 
+ int main()
+ {
++	int a , b;
+ 
+ 	printf ("Hello team welcome to git..!!")
+ 	Printf ("Welcome")
+-- 
+2.25.1
+
